@@ -1,0 +1,9 @@
+{
+  "name": "daa-search-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DAA.com dark web search interface with Google Programmable Search integration",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
